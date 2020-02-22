@@ -37,6 +37,17 @@ ol{
     color: white;
     font-style: italic;
 }
+img{
+    float: inline-start;
+}
+a.wow fadeInUp btn btn-default hvr-bounce-to-top smoothScroll{
+    animation: reverse;
+    margin: 2rem;
+    padding: 2rem;
+    border: #eeee;
+    border-radius: 1rem;
+    
+}
 nav{
     height: 0 auto  ;
     background: #eeee;
