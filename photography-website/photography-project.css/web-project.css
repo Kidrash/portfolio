@@ -15,7 +15,7 @@ body {
   background-color: black;
 }
 p{
-  color: crimson;
+  color: hotpink;
 }
 li{
   color: crimson;
@@ -24,4 +24,7 @@ li{
 ol{
   color: crimson;
   text-align: center;
+}
+img{
+  float: none;
 }
