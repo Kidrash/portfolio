@@ -1,0 +1,37 @@
+h1{
+    color: red;
+    font-style: italic;
+    font-size: 80px;
+    text-align: center;
+}
+h2{
+
+    font-size: -webkit-xxx-large;
+    color: red;
+    font-style: oblique;
+}
+h3{
+    font-size: x-large;
+    color: red;
+    font-style: initial;
+}
+h4, h5{
+    font-size: larger;
+    color: white;
+}
+.name{
+    color: red;
+    font-size: 30px;
+}
+.school{
+    color: green;
+}
+p {
+    color:skyblue
+}
+ol{
+
+    font-size: larger;
+    color: white;
+    font-style: italic;
+}
